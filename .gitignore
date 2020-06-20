@@ -1,0 +1,7 @@
+.DS_STORE
+Icon
+*.csv
+.ipynb_checkpoints
+Resources/.ipynb_checkpoints/Icon
+Resources/Icon
+# Resources/Amazon_rev.csv
